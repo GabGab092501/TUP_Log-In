@@ -27,6 +27,8 @@ nav{
 .id{
     font-weight: 700;
     font-size: 25px;
+    position: absolute;
+    left: 42.5%;
 }
 
 .flexbox-container{
