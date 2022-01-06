@@ -4,6 +4,14 @@ body{
     font-family: sans-serif;
 }
 
+@media  (min-width: 600px){
+    
+}
+
+@media  (max-width: 600px){
+
+}
+
 .intro{
     height: 100vh;
     background: linear-gradient(#ffffff,#C7232B);
@@ -19,9 +27,6 @@ nav{
 .id{
     font-weight: 700;
     font-size: 25px;
-    left:42.25%;
-    top:13%;
-    position:absolute;
 }
 
 .flexbox-container{
